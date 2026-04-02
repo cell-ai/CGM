@@ -1,0 +1,5 @@
+biopython==1.85
+snakemake==8.10.0
+pyyaml==6.0
+pandas==2.1.3
+numpy==1.26.2
